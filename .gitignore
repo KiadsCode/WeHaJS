@@ -1,0 +1,4 @@
+build/
+.vscode/
+src/vc60.pdb
+src/textWriter.msd
