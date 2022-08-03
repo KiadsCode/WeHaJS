@@ -1,2 +1,2 @@
 # WeHa
-WeHa - programming language
+WeHa - translator to js
